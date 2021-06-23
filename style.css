@@ -1,0 +1,144 @@
+.navigations {
+  font-size: 35px;
+  margin: 50px 200px 70px 50px;
+  float: right;
+  text-decoration: none;
+  color: #3C3A5B;
+  border: 3px groove #3C3A5B;
+  border-radius: 15px;
+  padding: 4px;
+  background-color: #7773B6;
+}
+.logo {
+  padding: 15px;
+  border: 5px solid	#3C3A5B;
+  border-radius: 30px;
+  background-color: #7773B6;
+}
+nav{
+  background-color: #6964B6;
+  padding: 5px;
+  border: 5px dashed #3C3A5B; 
+}
+body {
+  background-color: MediumSlateBlue;
+  font-family: sans-serif;
+}
+.textli {
+  font-size: 25px;
+}
+.spisok {
+  width: 650px;
+  background-color: #88B741;
+  padding: 2px;
+  margin: 15px;
+  float: left;
+  border: 7px dashed #6E8747;
+  border-radius: 30px;
+}
+.spisok2 {
+  width: 550px;
+  height: 340px;
+  background-color: #88B741;
+  padding: 30px 4px 3px 4px;
+  margin: 15px;
+  float: right;
+  border: 7px dashed #6E8747;
+  border-radius: 30px;
+  font-size: 30px;
+}
+.spisok3{
+  background-color: #88B741;
+  float: right;
+  padding: 10px;
+    border: 7px dashed #6E8747;
+  border-radius: 15px;
+  font-size: 35px;
+  width: 900px;
+  
+  
+}
+.tabletd {
+  background-color: Crimson;
+  color: white;
+  padding: 10px;
+  margin: 100px 10px 10px 10px;
+  float: right;
+  border: 5px solid FireBrick;
+  border-radius: 15px;
+  font-size: 20px;
+}
+.image1 {
+  margin: 100px 10px 10px 10px;
+  float: left;
+  
+}
+.tabletdnone {
+  background-color: #B2F63D;
+  color: #365600;
+  border: 6px solid #639D00;
+  border-radius: 30px;
+  padding: 5px 15px 5px 15px;
+  font-size: 20px;
+}
+.tabletdnone2 {
+  background-color: #009999;
+  border: 4px dashed #006363;
+  padding: 5px 15px 5px 15px;
+  margin: 15px;
+  border-radius: 30px;
+  font-size: 20px;
+  color: #67F0F0;
+  width: 900px;
+  float: left;
+  text-align: center;
+}
+.youtuber {
+  float: right;
+  background-color: #FFAF6D;
+  padding: 5px;
+  border: 4px inset #E96A00;
+  color: #E96A00;
+  font-size: 20px;
+  width: 600px;
+  margin: 15px;
+}
+.pedipai {
+  float: left;
+  background-color: #6AF86A;
+  color: #008000;
+  border: 4px solid #00BB00;
+  margin: 15px;
+  padding: 5px;
+  width: 550px;
+  font-size: 23px;
+}
+.monetization {
+  background-color: #FF4444;
+  padding: 15px;
+  margin: 15px;
+  float: right;
+  width: 1000px;
+  color: white;
+  border: 10px dotted #9F0000;
+  font-size: 20px;
+}
+.poslednee {
+  background-color: #FF9944;
+  float: left;
+  padding: 15px;
+  border: 4px dashed #9F4800;
+  color: #753500;
+  font-size: 25px;
+  width: 800px;
+  text-align: justify;
+}
+footer {
+  background-color: #5CE9E9;
+  float: left;
+  width: 1000px;
+  padding: 15px;
+  margin: 100px 0 0 0;
+  font-size: 25px;
+  border: 10px inset #008181;
+}
